@@ -50,7 +50,7 @@ project/
 ## Deployment
 ## Live Website
 Deployed with [Vercel](https://vercel.com).  
-Live site URL: https://plp-webtechnologies-classroom-july2-murex.vercel.app/
+Live site URL: https://plp-webtechnologies-classroom-july2-murex.vercel.app/ 
 
 
 ---
